@@ -14,7 +14,7 @@ Crawl deepwiki docs ([example result](examples/OpenHands/deepwiki/docs))
 python docs_parser/crawl_deepwiki_docs.py --url https://deepwiki.com/AnhMinh-Le/OpenHands --output-dir ../data/OpenHands/deepwiki/docs
 ```
 
-Parse deepwiki docs ([example result](examples/OpenHands/deepwiki/docs))
+Parse deepwiki docs ([example result](examples/OpenHands/deepwiki))
 ```bash
 python docs_parser/parse_generated_docs.py --input-dir ../data/OpenHands/deepwiki/docs --output-dir ../data/OpenHands/deepwiki
 ```
